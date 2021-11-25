@@ -8,5 +8,5 @@ Swagger:
 
 Запуск миграции:
 
-    docker-compose run --rm django python manage.py migrate
+    docker-compose run --rm django python project/manage.py migrate
 
